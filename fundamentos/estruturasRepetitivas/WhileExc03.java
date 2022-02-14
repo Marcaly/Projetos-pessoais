@@ -9,7 +9,7 @@ exemplo.*/
 
 import java.util.Scanner;
 
-public class DoWhileExc03 {
+public class WhileExc03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

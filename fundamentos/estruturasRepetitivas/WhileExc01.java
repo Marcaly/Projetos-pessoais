@@ -6,7 +6,7 @@ impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a 
 
 import java.util.Scanner;
 
-public class DoWhileExc01 {
+public class WhileExc01 {
 
     public static void main(String[] args) {
 
