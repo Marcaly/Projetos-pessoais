@@ -1,2 +1,4 @@
-package estruturasRepetitivas;public class EstruturaFor4 {
+package estruturasRepetitivas;
+
+public class EstruturaFor4 {
 }
