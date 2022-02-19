@@ -2,7 +2,7 @@ package pOO.test;
 
 import pOO.domain.Carro;
 
-public class carroTest {
+public class CarroTest {
     public static void main(String[] args) {
         Carro carro = new Carro();
         Carro carro2 = new Carro();
